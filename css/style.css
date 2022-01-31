@@ -1,0 +1,38 @@
+html 
+{background-color:hsl(212, 45%, 89%);}
+
+body
+{
+min-width:300px;
+max-width:300px ;
+box-shadow: 0 10px 10px hsl(212, 20%, 70%);
+border-radius: 25px;
+font-family: outfit;
+background-color: white;
+margin:auto;
+padding:15px;
+width:25%;
+text-align:center;
+position: fixed;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+img
+{
+border-radius: 25px;
+object-fit: contain;
+height: 100%;
+width: 100%;
+}
+h1
+{
+    font-size:21px ;
+color:hsl(218, 44%, 22%);
+}
+p
+{
+font-size:14;
+color:hsl(220, 15%, 55%);
+}
